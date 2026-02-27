@@ -1,6 +1,6 @@
 // Arithmetic Operators
-var x = 5;
-var y = 10;
+var a = 5;
+var b = 10;
 var lb = "<br/>";
 
 var result;
